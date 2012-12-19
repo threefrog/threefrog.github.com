@@ -45,10 +45,10 @@ JB :
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Project Pages (http://threefrog.github.com/threefrog.github.com)
+  # GitHub Project Pages (http://username.github.com/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to:http://threefrog.github.com/threefrog.github.com
+  #  REQUIRED! Set BASE_PATH to: http://username.github.com/project-name
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : threefrogblogbygithub
+      short_name : 你在disqus上注册用户的短名
     livefyre :
       site_id : 123
     intensedebate :
